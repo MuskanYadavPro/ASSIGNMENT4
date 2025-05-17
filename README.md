@@ -2,7 +2,7 @@
 # FILES, EXCEPTIONS AND ERRORS
 ## 🔹Task 1: Read a File and Handle Errors
 
-**Filename:** `task1_file_handling.py`
+**File:** `task1_file_handling.py`
 
 ### Description:
 This program performs the following:
@@ -12,7 +12,7 @@ This program performs the following:
 
 ## 🔹Task 2: Write and Append Data to a File
 
-**Filename:** `task2_write_append.py`
+**File:** `task2_write_append.py`
 
 ### Description:
 This program:
